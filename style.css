@@ -5,9 +5,20 @@
   margin: auto;
 }
 
+.devices{
+  position: absolute;
+  display: inline-block;
+  margin-top: 278px;
+  background-image: url(images/devices.png);
+  height:360px;
+  width:758px;
+}
+
 .textWrapper {
+  display:inline-block;
   margin-left: 704px;
   margin-top: 100px;
+  background-color: rgb(255,255,255);
 }
 
 .thirdPanelTitle {
@@ -23,12 +34,9 @@
  }
 
 .button {
-  color: rgb(225,50,118);
-  border: 2px solid rgb(225,50,118);
-  width: 175px;
-  height: 40px;
-  margin-top: 60px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 15px;
+  margin-top: 50px;
+  margin-left: -10px;
+  width: 250px;
+  height: 70px;
+  background-image: url(images/dribble.png);
 }
