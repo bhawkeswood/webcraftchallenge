@@ -3,10 +3,13 @@ h1, h2 {
   font-size: 2.0em;
 }
 
-p {
+p, form {
   font-family: 'Open Sans', sans-serif;
 }
 
+form {
+  font-style: italic;
+}
 
 .second_panel {
   height:600px;
@@ -137,4 +140,62 @@ p {
   padding-top: 15px;
 }
 
+.fifthPanel {
+  background-color: rgb(241,241,241);
+  height: 650px;
+  width: auto;
+}
 
+#fifthbuttons {
+  width: 400px;
+  height: 65px;
+  margin-left: 550px;
+  padding-top: 240px;
+}
+
+.dribbble {
+  background-image: url(images/dribble_ico.png);
+  width: 48px;
+  height: 50px;
+  display: inline-block;
+  float: center;
+  padding: 5px;
+}
+
+.facebook {
+  background-image: url(images/fb_ico.png);
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  float: center;
+  padding: 5px;
+}
+
+.twitter {
+  background-image: url(images/twitter_ico.png);
+  display: inline-block;
+  width: 50px;
+  height: 48px;
+  float: center;
+  padding: 5px;
+}
+
+.mail {
+  background-image: url(images/plane_ico.png);
+  display: inline-block;
+  width: 52px;
+  height: 48px;
+  padding: 5px;
+}
+
+form {
+  margin-left: 500px;
+  padding-top: 40px;
+}
+
+input {
+  width: 220px;
+  height: 45px;
+  border: none;
+  border-radius: 5px;
+}
