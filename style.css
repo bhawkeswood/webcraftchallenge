@@ -1,3 +1,66 @@
+h1, h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.0em;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.second_panel {
+  height:600px;
+  width:100%;
+  background: #f4f4f4;
+
+}
+
+.copy {
+  width:50%;
+  float:left;
+  margin:60px;
+
+}
+
+.copy a {
+  position:relative;
+  top:110px;
+  left:-147px;
+}
+
+.ipad {
+  width:40%;
+  float:left;
+}
+
+.ipad img {
+  margin-left: 250px;
+  margin-top: 102px;
+}
+
+.blockbar {
+  width:20%;
+  float:left;
+  position:relative;
+  left:-11px;
+}
+
+.blockquote {
+  width:80%;
+  float:left;
+}
+
+.blockquote p {
+  position:relative;
+  left:-79px;
+  top:22px;
+}
+
+
+
+
+
+
 .thirdPanel {
   width: 1260px;
   height: 640px;
@@ -61,3 +124,16 @@
   width: 245px;
   margin-left: 470px;
 }
+
+.button {
+  color: rgb(225,50,118);
+  border: 2px solid rgb(225,50,118);
+  width: 175px;
+  height: 40px;
+  margin-top: 60px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+}
+
+
