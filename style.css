@@ -74,6 +74,7 @@ p {
   background-image: url(images/devices.png);
   height:360px;
   width:758px;
+  border-top-right-radius: 90px;
 }
 
 .textWrapper {
