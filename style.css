@@ -4,3 +4,18 @@
   height: 640px;
   margin: auto;
 }
+
+.thirdPanelTitle {
+  margin-bottom: 40px;
+}
+
+.explanation {
+
+}
+
+.button {
+  border: 2px solid rgb(225,50,118);
+  width: 203px;
+  height: 55px;
+  margin-top: 60px;
+}
